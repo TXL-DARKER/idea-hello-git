@@ -11,6 +11,7 @@ public class TestGit {
         System.out.println("idea集成git");
         System.out.println("idea集成git2");
         System.out.println("test push to repository");
+        System.out.println("test push to repository");
 
     }
 }
