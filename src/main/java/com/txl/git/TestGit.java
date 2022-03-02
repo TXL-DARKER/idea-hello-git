@@ -15,5 +15,6 @@ public class TestGit {
         System.out.println("payment,payment");
         System.out.println("payment,payment");
         System.out.println("8888888888888888888====master");
+        System.out.println("66666666666666666==payment");
     }
 }
