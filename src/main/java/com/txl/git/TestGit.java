@@ -13,5 +13,6 @@ public class TestGit {
         System.out.println("idea集成git3");
         System.out.println("payment,payment");
         System.out.println("payment,payment");
+        System.out.println("payment,payment");
     }
 }
