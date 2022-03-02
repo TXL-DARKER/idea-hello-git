@@ -15,5 +15,6 @@ public class TestGit {
         System.out.println("test pull from repository");
         System.out.println("11111111111111111111");
 
+         System.out.println("2222222222222222222");
     }
 }
