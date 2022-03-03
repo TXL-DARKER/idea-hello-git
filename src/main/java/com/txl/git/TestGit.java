@@ -9,13 +9,7 @@ package com.txl.git;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("idea集成git");
-        System.out.println("idea集成git2");
-        System.out.println("test push to repository");
-        System.out.println("test push to repository");
-        System.out.println("test pull from repository");
-        System.out.println("11111111111111111111");
-        System.out.println("giteeeeeeeee");
+        System.out.println("gitlab gitlab ");
 
-         System.out.println("2222222222222222222");
     }
 }
